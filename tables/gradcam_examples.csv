@@ -1,0 +1,7 @@
+figure,model,image_path,true_label,predicted_label,confidence,is_correct
+figure_5_gradcam_correct_prediction_examples.pdf,Custom CNN,/kaggle/input/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product/casting_data/casting_data/test/def_front/cast_def_0_432.jpeg,def_front,def_front,0.9967923760414124,True
+figure_5_gradcam_correct_prediction_examples.pdf,MobileNetV2,/kaggle/input/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product/casting_data/casting_data/test/def_front/cast_def_0_432.jpeg,def_front,def_front,1.0,True
+figure_5_gradcam_correct_prediction_examples.pdf,ResNet50,/kaggle/input/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product/casting_data/casting_data/test/def_front/cast_def_0_432.jpeg,def_front,def_front,1.0,True
+figure_6_gradcam_misclassification_examples.pdf,Custom CNN,/kaggle/input/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product/casting_data/casting_data/test/def_front/cast_def_0_150.jpeg,def_front,ok_front,0.9847545623779297,False
+figure_6_gradcam_misclassification_examples.pdf,MobileNetV2,/kaggle/input/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product/casting_data/casting_data/test/def_front/cast_def_0_150.jpeg,def_front,ok_front,0.9868833422660828,False
+figure_6_gradcam_misclassification_examples.pdf,ResNet50,/kaggle/input/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product/casting_data/casting_data/test/def_front/cast_def_0_150.jpeg,def_front,ok_front,0.9908395409584045,False

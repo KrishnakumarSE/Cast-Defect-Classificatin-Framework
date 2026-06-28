@@ -1,0 +1,7 @@
+final_split,label,image_count
+test,def_front,453
+test,ok_front,262
+train,def_front,3340
+train,ok_front,2556
+validation,def_front,418
+validation,ok_front,319

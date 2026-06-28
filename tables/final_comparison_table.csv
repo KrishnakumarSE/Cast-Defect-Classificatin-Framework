@@ -1,0 +1,4 @@
+model,accuracy,f1_weighted,training_time_seconds,total_parameters,gradcam_quality,shap_interpretability,overall_finding
+MobileNetV2,0.8797202797202798,0.8781281956283683,196.346233782,2260546,Review Figure 5 and Figure 6,Review Figure 7,Best weighted F1-score on the test set
+ResNet50,0.8699300699300699,0.867384436868973,347.47786153900006,23591810,Review Figure 5 and Figure 6,Review Figure 7,Useful baseline for comparison
+Custom CNN,0.8601398601398601,0.862677320763161,224.88327279700007,2061986,Review Figure 5 and Figure 6,Review Figure 7,Useful baseline for comparison
